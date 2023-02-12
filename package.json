@@ -1,0 +1,25 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "first try",
+  "main": "date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "simple-date": "test.js"
+  },
+  "keywords": [
+    "vasya"
+  ],
+  "author": "jeka",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekasys/lesson1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jekasys/lesson1/issues"
+  },
+  "homepage": "https://github.com/jekasys/lesson1#readme"
+}
